@@ -1,7 +1,9 @@
 # flutter_travel_app_ui_design
 
 A new Flutter application.
-
+<img src="images/Screenshot_1619808092.png" width=150/>       <img src="images/Screenshot_1619894342.png" width=150/>
+<img src="images/Screenshot_1619894363.png" width=150/>       <img src="images/Screenshot_1619894351.png" width=150/>
+<img src="images/Screenshot_1619894377.png" width=150/>       
 ## Getting Started
 
 This project is a starting point for a Flutter application.
